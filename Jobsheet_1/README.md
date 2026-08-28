@@ -31,4 +31,3 @@
    ![Images](dokumentasi/tambah_buku.png)
    ![Images](dokumentasi/tampilan_tambah_buku.png)
 
-## Jobsheet 2
