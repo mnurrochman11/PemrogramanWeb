@@ -8,8 +8,9 @@
 
 1. Header Pemanggilan CSS tiap File
 
-![Images](dokumentasi/headercss.png)
+   ![Images](dokumentasi/headercss.png)
 
 2. File Style CSS
-![Images](dokumentasi/stylecss.png)
+
+   ![Images](dokumentasi/stylecss.png)
 
