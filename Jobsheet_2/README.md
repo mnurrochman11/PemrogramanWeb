@@ -1,16 +1,32 @@
 # Laporan Pemrograman Web
 
-<h4>Nama : Muhammad Nur Rochman<h4>
-<h4>NIM : 254107020121<h4>
-<h4>Kelas : TI-2G<h4>
+* **Nama:** Muhammad Nur Rochman
+* **NIM:** 254107020121
+* **Kelas:** TI-2G
+
+---
 
 ## Jobsheet 2
 
-1. Header Pemanggilan CSS tiap File
+1. **Header Pemanggilan CSS tiap File**  
+   ![Header Pemanggilan CSS](dokumentasi/headercss.png)
 
-   ![Images](dokumentasi/headercss.png)
+2. **File Style CSS**  
+   ![File Style CSS](dokumentasi/stylecss.png)
 
-2. File Style CSS
+3. **Hasil Kode**  
 
-   ![Images](dokumentasi/stylecss.png)
+   * **Dashboard**  
+     ![Dashboard](dokumentasi/dashboaard.png)  
 
+   * **Daftar Anggota**  
+     ![Daftar Anggota](dokumentasi/daftaranggota.png)  
+
+   * **Daftar Buku**  
+     ![Daftar Buku](dokumentasi/daftarbuku.png)  
+
+   * **Tambah Anggota**  
+     ![Tambah Anggota](dokumentasi/tambahanggota.png)  
+
+   * **Tambah Buku**  
+     ![Tambah Buku](dokumentasi/tambahbuku.png)
