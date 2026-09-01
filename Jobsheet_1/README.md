@@ -1,33 +1,29 @@
 # Laporan Pemrograman Web
 
-<h4>Nama : Muhammad Nur Rochman<h4>
-<h4>NIM : 254107020121<h4>
-<h4>Kelas : TI-2G<h4>
+* **Nama:** Muhammad Nur Rochman
+* **NIM:** 254107020121
+* **Kelas:** TI-2G
+
+---
 
 ## Jobsheet 1
 
-1. Index
+1. **Index**  
+   ![Kode Index](dokumentasi/index.png)  
+   ![Tampilan Beranda](dokumentasi/tampilan_beranda.png)
 
-   ![Images](dokumentasi/index.png)
-   ![Images](dokumentasi/tampilan_beranda.png)
+2. **List Anggota**  
+   ![Kode List Anggota](dokumentasi/list_anggota.png)  
+   ![Tampilan List Anggota](dokumentasi/tampilan_list_anggota.png)
 
-2. List Anggota
+3. **List Buku**  
+   ![Kode List Buku](dokumentasi/list_buku.png)  
+   ![Tampilan List Buku](dokumentasi/tampilan_list_buku.png)
 
-   ![Images](dokumentasi/list_anggota.png)
-   ![Images](dokumentasi/tampilan_list_anggota.png)
+4. **Tambah Anggota**  
+   ![Kode Tambah Anggota](dokumentasi/tambah_anggota.png)  
+   ![Tampilan Tambah Anggota](dokumentasi/tampilan_tambah_anggota.png)
 
-3. List Buku
-
-   ![Images](dokumentasi/list_buku.png)
-   ![Images](dokumentasi/tampilan_list_buku.png)
-
-4. Tambah Anggota
-
-   ![Images](dokumentasi/tambah_anggota.png)
-   ![Images](dokumentasi/tampilan_tambah_anggota.png)
-
-5. Tambah Buku
-
-   ![Images](dokumentasi/tambah_buku.png)
-   ![Images](dokumentasi/tampilan_tambah_buku.png)
-
+5. **Tambah Buku**  
+   ![Kode Tambah Buku](dokumentasi/tambah_buku.png)  
+   ![Tampilan Tambah Buku](dokumentasi/tampilan_tambah_buku.png)
